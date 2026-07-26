@@ -12,8 +12,8 @@ x = 50
 panjang = 100000
 
 # Pemanggilan pertama
-print("Nilai a = ", a)
-print("Nilai x = ", x)
+print("Nilai a = ", a+1)
+print("Nilai x = ", x+2)
 print("Nilai panjang = ", panjang)
 
 # Pemanggilan kedua
