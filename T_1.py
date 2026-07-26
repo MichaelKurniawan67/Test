@@ -7,9 +7,9 @@ print("Hello Cantik")
 a = 10
 print(a)
 
-a = 10
-x = 5
-panjang = 1000
+a = 100
+x = 50
+panjang = 100000
 
 # Pemanggilan pertama
 print("Nilai a = ", a)
